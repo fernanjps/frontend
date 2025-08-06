@@ -9,13 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Tu configuración existente
   output: 'standalone',
-  
 }
 
-
-
-module.exports = nextConfig;
-
-export default nextConfig
+export default nextConfig;
